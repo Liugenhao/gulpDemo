@@ -1,0 +1,22 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "使用gulp基础组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liugenhao/gulpDemo.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "lgh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liugenhao/gulpDemo/issues"
+  },
+  "homepage": "https://github.com/Liugenhao/gulpDemo#readme"
+}
